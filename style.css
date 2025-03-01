@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Cookie&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Kalnia+Glaze:wght@100..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+    height: 510px;
+    width: 380px;
+    border: 2px solid hsl(0, 0%, 42%);
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 7px 7px 1px hsl(0, 0%, 7%);
+    border-radius: 20px;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.pic1{
+    border-radius: 10px;
+}
+.container3{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.btn{
+    font-family: "Figtree", serif;
+    font-weight:800;
+    padding: 7px;
+    border-radius: 5px;
+    border: 0;
+    background-color:hsl(47, 88%, 63%) ;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 80px;
+}
+.para1{
+    margin-top: 10px;
+    font-family: "Figtree", serif;
+    font-size: 14px;
+    color: hsl(0, 0%, 7%);
+    font-weight: 500;
+}
+.container4{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.head1{
+    font-family: "Figtree", serif;
+    font-weight: 800;
+    margin-bottom: 18px;
+}
+.para2{
+    font-family: "Figtree", serif;
+    color: hsl(0, 0%, 42%);
+    line-height: 1.5;
+}
+.container5{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.pic2{
+    height: 32px;
+    width: 31px;
+}
+.head2{
+    font-family: "Figtree", serif;
+    font-size: 13.33px;
+    margin-left: 15px;
+    font-weight: 800;
+}
