@@ -1,3 +1,6 @@
+## Live Demo
+Check out the live version of this project here: [Live Demo](https://akshaygir15.github.io/blog-preview-card/)
+
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
